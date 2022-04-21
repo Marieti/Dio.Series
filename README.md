@@ -1,4 +1,4 @@
-#### Criando uma APP Simpes de cadastro em memória:movie_camera:
+#### Criando uma APP Simples de cadastro em memória:movie_camera:
 
 Objetivos do Projeto para aprendizado: 
 
