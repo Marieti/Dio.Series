@@ -1,0 +1,26 @@
+C:\Workspace\Projetos Finais\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+C:\Workspace\Projetos Finais\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Workspace\Projetos Finais\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\Workspace\Projetos Finais\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Workspace\Projetos Finais\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+C:\Workspace\Projetos Finais\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+C:\Workspace\Projetos Finais\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+C:\Workspace\Projetos Finais\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+C:\Workspace\Projetos Finais\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Workspace\Projetos Finais\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Workspace\Projetos Finais\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Workspace\Projetos Finais\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Workspace\Projetos Finais\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
+C:\Workspace\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+C:\Workspace\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+C:\Workspace\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+C:\Workspace\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+C:\Workspace\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Workspace\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Workspace\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+C:\Workspace\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Workspace\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\Workspace\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Workspace\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Workspace\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Workspace\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache
